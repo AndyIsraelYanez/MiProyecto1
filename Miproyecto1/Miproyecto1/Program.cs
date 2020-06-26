@@ -6,7 +6,7 @@ namespace Miproyecto1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundfhfghfgog");
+            Console.WriteLine("Hola Mundfhfghfgovcbfg");
         }
     }
 }
